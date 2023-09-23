@@ -1,6 +1,6 @@
 # how to use it?
 
-Run a botnet.exe and build your build.
+Run a botnet.exe and create your build.
 
 
 
