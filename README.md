@@ -49,13 +49,13 @@ The final readable string contains infected machine information as well as user 
 When the F1libuster-botnet malware executes it will perform several anti-virtual machine checks:
 
 VMware:
-i) Dbghelp.dll
-ii) Software\Microsoft\ProductId != 76487-644-3177037-23510
+1) Dbghelp.dll
+2) Software\Microsoft\ProductId != 76487-644-3177037-23510
 Vbox:
-i) VBoxService.exe
-ii) VBoxHook.dll
+1) VBoxService.exe
+2) VBoxHook.dll
 Sandboxie
-i) SbieDll.dll
+SbieDll.dll
 It will also look for the Syser kernel debugger presence searching for the following devices:
 
 \\.\Syser
