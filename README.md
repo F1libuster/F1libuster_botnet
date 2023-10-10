@@ -64,3 +64,5 @@ It will also look for the Syser kernel debugger presence searching for the follo
 
 ![Image alt](https://github.com/F1libuster/F1libuster-botnet/blob/main/botnet4.jpg)
 
+# Fundraising
+1ABfJbTt898v5vYAv1YuLknFenwn894G3L
